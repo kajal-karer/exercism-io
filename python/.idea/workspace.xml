@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7a7b867-175f-4b3f-892a-27b669fb9000" name="Default" comment="">
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/keymaps/Default copy.xml" />
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/keymap.xml" />
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/markdown.xml" />
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/other.xml" />
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/plugin_ui.xml" />
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/tools/External Tools.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.4/fileChanges/last-build.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.7/fileChanges/last-build.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.7/fileContent/annotation-processors.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.7/fileContent/fileContent.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.7/fileHashes/fileHashes.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.7/fileHashes/fileHashes.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.7/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.7/taskHistory/taskHistory.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/4.7/taskHistory/taskHistory.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/buildOutputCleanup/cache.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.gradle/vcsWorkingDirs/gc.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.idea/gradle.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/gradle/wrapper/gradle-wrapper.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/gradle/wrapper/gradle-wrapper.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/gradlew" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/gradlew.bat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/.gradle/4.7/fileChanges/last-build.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/.gradle/4.7/fileContent/fileContent.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/.gradle/4.7/fileHashes/fileHashes.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/.gradle/4.7/fileHashes/fileHashes.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/.gradle/4.7/taskHistory/taskHistory.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/.gradle/4.7/taskHistory/taskHistory.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/.gradle/buildOutputCleanup/cache.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/.gradle/vcsWorkingDirs/gc.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/TUTORIAL.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/classes/java/main/Greeter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/classes/java/test/GreeterTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/reports/tests/test/classes/GreeterTest.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/reports/tests/test/css/base-style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/reports/tests/test/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/reports/tests/test/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/reports/tests/test/js/report.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/reports/tests/test/packages/default-package.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/test-results/test/TEST-GreeterTest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/test-results/test/binary/output.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/test-results/test/binary/output.bin.idx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/build/test-results/test/binary/results.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/src/main/java/Greeter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/hello-world/src/test/java/GreeterTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/settings.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build.gradle" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/classes/java/main/Twofer.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/classes/java/test/TwoferTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/reports/tests/test/classes/TwoferTest.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/reports/tests/test/css/base-style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/reports/tests/test/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/reports/tests/test/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/reports/tests/test/js/report.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/reports/tests/test/packages/default-package.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/test-results/test/TEST-TwoferTest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/test-results/test/binary/output.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/test-results/test/binary/output.bin.idx" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/build/test-results/test/binary/results.bin" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/src/main/java/Twofer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../java/two-fer/src/test/java/TwoferTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/python.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bob/.solution.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bob/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bob/bob.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bob/bob_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leap/.pytest_cache/v/cache/lastfailed" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leap/.pytest_cache/v/cache/nodeids" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leap/.pytest_cache/v/pep8/mtimes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leap/.solution.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leap/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leap/leap.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leap/leap_test.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../vimscript/hello-world/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../vimscript/hello-world/hello_world.vader" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../vimscript/hello-world/hello_world.vim" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="leap.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leap/leap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cmd+</find>
+      <find>from</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hello-world/hello_world.py" />
+        <option value="$PROJECT_DIR$/reverse-string/reverse_string.py" />
+        <option value="$PROJECT_DIR$/isogram/isogram.py" />
+        <option value="$PROJECT_DIR$/pangram/pangram.py" />
+        <option value="$PROJECT_DIR$/rna-transcription/rna_transcription.py" />
+        <option value="$PROJECT_DIR$/leap/leap.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-310" />
+    <option name="y" value="106" />
+    <option name="width" value="1386" />
+    <option name="height" value="616" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="leap" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Scripts/pylint.exe" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="leap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leap" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leap/leap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.leap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7a7b867-175f-4b3f-892a-27b669fb9000" name="Default" comment="" />
+      <created>1525798200258</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525798200258</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24330357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41272432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39151713" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>(1996 /4)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(1996 // 4) == 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(1996 / 4) == 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1996 / 4 == 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1996/ 4 == 0</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/isbn-verifier/README.md" />
+    <entry file="file://$PROJECT_DIR$/rna-transcription/rna_transcription_test.py" />
+    <entry file="file://$PROJECT_DIR$/rna-transcription/README.md" />
+    <entry file="file://$PROJECT_DIR$/rna-transcription/rna_transcription.py" />
+    <entry file="file://$PROJECT_DIR$/isbn-verifier/README.md" />
+    <entry file="file://$PROJECT_DIR$/pangram/README.md" />
+    <entry file="file://$PROJECT_DIR$/pangram/README.md" />
+    <entry file="file://$PROJECT_DIR$/isogram/README.md" />
+    <entry file="file://$PROJECT_DIR$/isogram/isogram_test.py" />
+    <entry file="file://$PROJECT_DIR$/isogram/isogram.py" />
+    <entry file="file://$PROJECT_DIR$/isogram/isogram_test.py" />
+    <entry file="file://$PROJECT_DIR$/isogram/README.md" />
+    <entry file="file://$PROJECT_DIR$/isogram/README.md" />
+    <entry file="file://$PROJECT_DIR$/isogram/isogram_test.py" />
+    <entry file="file://$PROJECT_DIR$/leap/leap_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/leap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverse-string/reverse_string_test.py" />
+    <entry file="file://$PROJECT_DIR$/reverse-string/reverse_string.py" />
+    <entry file="file://$PROJECT_DIR$/reverse-string/README.md" />
+    <entry file="file://$PROJECT_DIR$/leap/leap_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/leap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverse-string/reverse_string_test.py" />
+    <entry file="file://$PROJECT_DIR$/reverse-string/reverse_string.py" />
+    <entry file="file://$PROJECT_DIR$/reverse-string/README.md" />
+    <entry file="file://$PROJECT_DIR$/leap/leap_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="51">
+            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/leap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-world/hello_world_test.py" />
+    <entry file="file://$PROJECT_DIR$/hello-world/README.md" />
+    <entry file="file://$PROJECT_DIR$/hello-world/hello_world.py" />
+    <entry file="file://$PROJECT_DIR$/hello-world/README.md" />
+    <entry file="file://$PROJECT_DIR$/hello-world/hello_world_test.py" />
+    <entry file="file://$PROJECT_DIR$/hello-world/hello_world.py" />
+    <entry file="file://$PROJECT_DIR$/leap/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leap/leap_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="46" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverse-string/README.md" />
+    <entry file="file://$PROJECT_DIR$/reverse-string/reverse_string.py" />
+    <entry file="file://$PROJECT_DIR$/reverse-string/reverse_string_test.py" />
+    <entry file="file://$PROJECT_DIR$/isogram/README.md" />
+    <entry file="file://$PROJECT_DIR$/pangram/README.md" />
+    <entry file="file://$PROJECT_DIR$/isogram/isogram_test.py" />
+    <entry file="file://$PROJECT_DIR$/isogram/isogram.py" />
+    <entry file="file://$PROJECT_DIR$/pangram/pangram_test.py" />
+    <entry file="file://$PROJECT_DIR$/rna-transcription/README.md" />
+    <entry file="file://$PROJECT_DIR$/pangram/pangram.py" />
+    <entry file="file://$PROJECT_DIR$/isbn-verifier/README.md" />
+    <entry file="file://$PROJECT_DIR$/rna-transcription/rna_transcription_test.py" />
+    <entry file="file://$PROJECT_DIR$/rna-transcription/rna_transcription.py" />
+    <entry file="file://$PROJECT_DIR$/leap/leap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
